@@ -1,0 +1,6 @@
+.vscode
+dist
+venv-pytach
+pytach.egg-info
+**/__pycache__
+**/logging.ini
