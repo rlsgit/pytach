@@ -1,5 +1,5 @@
 """
-The itach driver.
+The itach IP2IR driver.
 
 """
 
